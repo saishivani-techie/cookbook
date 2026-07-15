@@ -97,6 +97,7 @@ The Gemini API is a REST API. You can call it directly using tools like `curl` (
 * [Dart (Flutter)](https://github.com/google/generative-ai-dart)
 * [Android](https://github.com/google/generative-ai-android)
 * [Swift](https://github.com/google/generative-ai-swift)
+* And More
 <br><br>
 
 ## Get Help
